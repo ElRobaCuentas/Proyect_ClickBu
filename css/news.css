@@ -4,14 +4,8 @@
     text-align: center;
 }
 
-#info .contenedor {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
 .info-news {
-    margin: 60px;
+    padding: 50px;
 }
 
 .info-news img {

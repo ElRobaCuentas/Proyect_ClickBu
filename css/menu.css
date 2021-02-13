@@ -40,10 +40,9 @@ header label {
     .menu {
         position: static;
         width: auto;
-        height: auto;
-        transform: translateX (0%);
-        float: right;
+        height: 30px;
         display: flex;
+        transform: translateX(10%);
     }
 
     .menu a {
