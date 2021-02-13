@@ -1,0 +1,23 @@
+#proyectos {
+    background: #333;
+    color: white;
+    text-align: center;
+}
+
+#info .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-news {
+    margin: 28px;
+}
+
+.info-news img {
+    width: 300px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+

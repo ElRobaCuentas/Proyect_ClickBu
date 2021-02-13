@@ -2,6 +2,7 @@
 @import url(menu.css);
 @import url(banner.css);
 @import url(blog.css);
+@import url(news.css);
 
 
 * {
@@ -50,4 +51,27 @@ section {
 
 #proyectos {
     text-align: center;
+}
+
+footer .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 25px;
+}
+
+.copy {
+    font-size: 20px;
+}
+
+.sociales {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+}
+
+.sociales a {
+    color: #333;
+    text-decoration: none;
+    margin: 2px;
 }
