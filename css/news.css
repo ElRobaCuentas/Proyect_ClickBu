@@ -11,10 +11,11 @@
 }
 
 .info-news {
-    margin: 28px;
+    margin: 60px;
 }
 
 .info-news img {
+    margin-top: 15px;
     width: 300px;
     height: 200px;
     border-radius: 50%;

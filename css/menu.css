@@ -1,7 +1,7 @@
 #menu-bar {
     display: none;
 }
-header i {
+header label {
     float: right;
     font-size: 28px;
     margin: 6px 0;
@@ -50,7 +50,7 @@ header i {
         border: none;
     }
 
-    header i {
+    header label {
         display: none;
     }
 }
